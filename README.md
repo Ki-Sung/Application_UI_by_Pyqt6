@@ -1,5 +1,10 @@
 # Application_UI_by_Pyqt6
 
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/80456601/168537522-0fbbfd7f-94e6-4667-b360-bcf1789abd62.gif" width="40%" height=40%> 
+<img src = "https://user-images.githubusercontent.com/80456601/168537458-fcd4cb84-4cbb-417f-82ac-6ed16202a11f.gif" width="40%" height=40%>
+</p>
+
 ## 1. TV Scheduel Crawling System
 
 - File name: **"TV_Scheduel_Crawling_UI_structure.py"**
